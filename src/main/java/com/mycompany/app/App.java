@@ -35,7 +35,9 @@ lastname VARCHAR(30) NOT NULL,
 //step5 close the connection object
             con.close();
 
-        }catch(Exception e){ System.out.println(e);}
+        }catch(Exception e){ System.out.println(e);
+        e.printStackTrace();
+        }
 
     }
 }
