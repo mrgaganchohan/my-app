@@ -5,8 +5,10 @@ import java.sql.Statement;
 import java.sql.ResultSet;
 class App{
     public static void main(String args[]){
+        System.out.println("hello");
         try{
 //step1 load the driver class
+
             Class.forName("com.mysql.cj.jdbc.Driver");
 
 //step2 create  the connection object
