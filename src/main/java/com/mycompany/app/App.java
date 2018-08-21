@@ -11,7 +11,7 @@ class App{
 
 //step2 create  the connection object
             Connection con= DriverManager
-                    .getConnection("jdbc:mysql://localhost:13306/centos?useLegacyDatetimeCode=false&serverTimezone=UTC&useSSL=false&allowPublicKeyRetrieval=true","gagan","dent");
+                    .getConnection("jdbc:mysql://localhost:3306/centos?useLegacyDatetimeCode=false&serverTimezone=UTC&useSSL=false&allowPublicKeyRetrieval=true","gagan","dent");
 
 //step3 create the statement object
             Statement stmt=con.createStatement();
