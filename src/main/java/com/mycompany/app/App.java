@@ -9,7 +9,7 @@ class App{
         try{
 //step1 load the driver class
 
-            Class.forName("com.mysql.cj.jdbc.Driver");
+         //   Class.forName("com.mysql.cj.jdbc.Driver");
 
 //step2 create  the connection object
             Connection con= DriverManager
