@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0f18fca4-4e50-469d-94ee-244e66808d4b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mycompany/app/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mycompany/app/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mycompany/app/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mycompany/app/App.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,11 +15,11 @@
     <session id="1380022418">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -55,8 +53,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/app/App.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            <state relative-caret-position="130">
+              <caret line="15" column="159" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="159" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,15 +98,16 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="288" />
-    <option name="width" value="1400" />
-    <option name="height" value="774" />
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="814" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
@@ -175,7 +174,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -234,12 +232,14 @@
       <workItem from="1534295492610" duration="2336000" />
       <workItem from="1534378899072" duration="2189000" />
       <workItem from="1534829093289" duration="1961000" />
-      <workItem from="1534860336192" duration="422000" />
+      <workItem from="1534860336192" duration="549000" />
+      <workItem from="1534896216805" duration="203000" />
+      <workItem from="1534902383096" duration="542000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6908000" />
+    <option name="totallyTimeSpent" value="7780000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -251,10 +251,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="288" width="1400" height="774" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="22" width="1440" height="814" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26067746" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -271,7 +270,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49852726" weight="0.32991204" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5022091" side_tool="true" visible="true" weight="0.32991204" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5022091" side_tool="true" visible="true" weight="0.31163436" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.55301917" weight="0.32991204" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -306,8 +305,8 @@
     <entry file="file://$PROJECT_DIR$/target/surefire-reports/TEST-com.mycompany.app.AppTest.xml" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mycompany/app/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        <state relative-caret-position="130">
+          <caret line="15" column="159" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="159" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
